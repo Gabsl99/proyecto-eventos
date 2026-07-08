@@ -12,7 +12,7 @@ describe('Pruebas de Backend API (Eventos y Participantes)', () => {
   // Prueba 2: Crear un nuevo evento
   it('Debe crear un nuevo evento', async () => {
     const nuevoEvento = {
-      id: "2",
+      id: "99", // Solución: Usamos un ID alto para evitar duplicados con los preinstalados
       titulo: "Taller de Node.js",
       descripcion: "Backend desde cero",
       fecha: "2026-09-10"

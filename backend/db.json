@@ -29,6 +29,12 @@
       "titulo": "Introducción al World-Building",
       "descripcion": "Seminario sobre creación de mundos complejos de ciencia ficción y fantasía para proyectos multimedia.",
       "fecha": "2026-09-25"
+    },
+    {
+      "id": "99",
+      "titulo": "Taller de Node.js",
+      "descripcion": "Backend desde cero",
+      "fecha": "2026-09-10"
     }
   ],
   "participantes": [],
@@ -38,6 +44,12 @@
       "email": "silver990306@gmail.com",
       "eventoId": "1",
       "id": 1
+    },
+    {
+      "nombre": "Juan Samaniego",
+      "email": "12345@gmail.com",
+      "eventoId": "3",
+      "id": 2
     }
   ]
 }
