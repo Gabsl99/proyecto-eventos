@@ -1,0 +1,43 @@
+{
+  "eventos": [
+    {
+      "id": "1",
+      "titulo": "Simposio Tecnológico Huancayo 2026",
+      "descripcion": "Encuentro anual de estudiantes para debatir el futuro de la tecnología y el desarrollo de software local.",
+      "fecha": "2026-08-15"
+    },
+    {
+      "id": "2",
+      "titulo": "Taller de Ensamblaje y Refrigeración Líquida",
+      "descripcion": "Aprende a armar tu PC desde cero, optimizar la BIOS y gestionar las temperaturas eficientemente.",
+      "fecha": "2026-08-20"
+    },
+    {
+      "id": "3",
+      "titulo": "Desarrollo de Videojuegos de Aventura",
+      "descripcion": "Creación de narrativas inmersivas y mecánicas de juego para títulos single-player.",
+      "fecha": "2026-09-05"
+    },
+    {
+      "id": "4",
+      "titulo": "Implementación de Windows LTSC",
+      "descripcion": "Optimización del sistema operativo para minimizar el consumo de recursos en segundo plano.",
+      "fecha": "2026-09-12"
+    },
+    {
+      "id": "5",
+      "titulo": "Introducción al World-Building",
+      "descripcion": "Seminario sobre creación de mundos complejos de ciencia ficción y fantasía para proyectos multimedia.",
+      "fecha": "2026-09-25"
+    }
+  ],
+  "participantes": [],
+  "inscripciones": [
+    {
+      "nombre": "Gabriel",
+      "email": "silver990306@gmail.com",
+      "eventoId": "1",
+      "id": 1
+    }
+  ]
+}
