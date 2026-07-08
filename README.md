@@ -34,3 +34,9 @@ Para ejecutar este proyecto localmente, es necesario levantar tanto el servidor 
 cd backend
 npm install
 node server.js
+
+### 2. Iniciar el Frontend (En una nueva terminal)
+
+cd frontend
+npm install
+npm start
